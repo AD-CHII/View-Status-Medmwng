@@ -10,7 +10,7 @@
 ## Installation
 + ติดตั้ง Modules
 ```sh
-npm install chii-api
+npm install 
 ```
 ## Run Code
 + รันโค้ด
