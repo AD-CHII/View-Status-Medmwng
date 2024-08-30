@@ -17,7 +17,7 @@ npm install
 ```sh
 node index.js
 ```
-[  ![Alt text]([https://res.cloudinary.com/demo/image/upload/w_300/sample.jpg](https://img5.pic.in.th/file/secure-sv1/sef1bd0ce5ecb6d9fb.png))
+[  ![ตัวอย่างรูปภาพหน้าสถานะ]([https://res.cloudinary.com/demo/image/upload/w_300/sample.jpg](https://img5.pic.in.th/file/secure-sv1/sef1bd0ce5ecb6d9fb.png))
 ](https://img5.pic.in.th/file/secure-sv1/sef1bd0ce5ecb6d9fb.png)
   
 # การกำหนดชื่อสถานะสังเกตุที่ชื่อหัวข้อมัน
