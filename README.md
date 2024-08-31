@@ -102,13 +102,13 @@ cpu:g
             "Details": [
                 "꒰ time:t ꒱ ✦ ꒰ date:n ꒱"
                 , "꒰ time:t ꒱ ✦ ꒰ date:th ꒱"
-                ,"꒰ วันday:th ꒱ ✦ ꒰ day:eg ꒱"
+                ,"꒰ day:th ꒱ ✦ ꒰ day:eg ꒱"
                 ,"꒰ time:t ꒱ ✦ ꒰ date:eg ꒱"
                 ,"꒰ time:t ꒱ ✦ ꒰ date:n ꒱"
                 ,"꒰ time:t ꒱ ✦ ꒰ date:th ꒱"
-                ,"꒰ วันday:th ꒱ ✦ ꒰ day:eg ꒱"
+                ,"꒰ day:th ꒱ ✦ ꒰ day:eg ꒱"
                 ,"꒰ time:t ꒱ ✦ ꒰ date:eg ꒱"
-                ,"꒰ วันday:th ꒱ ✦ ꒰ day:eg ꒱"
+                ,"꒰ day:th ꒱ ✦ ꒰ day:eg ꒱"
                 ,"꒰ time:t ꒱ ✦ ꒰ date:eg ꒱"
             ],
             "setState": [
@@ -184,13 +184,13 @@ cpu:g
             "Details": [
                 "꒰ time:t ꒱ ✦ ꒰ date:n ꒱"
                 , "꒰ time:t ꒱ ✦ ꒰ date:th ꒱"
-                ,"꒰ วันday:th ꒱ ✦ ꒰ day:eg ꒱"
+                ,"꒰ day:th ꒱ ✦ ꒰ day:eg ꒱"
                 ,"꒰ time:t ꒱ ✦ ꒰ date:eg ꒱"
                 ,"꒰ time:t ꒱ ✦ ꒰ date:n ꒱"
                 ,"꒰ time:t ꒱ ✦ ꒰ date:th ꒱"
-                ,"꒰ วันday:th ꒱ ✦ ꒰ day:eg ꒱"
+                ,"꒰ day:th ꒱ ✦ ꒰ day:eg ꒱"
                 ,"꒰ time:t ꒱ ✦ ꒰ date:eg ꒱"
-                ,"꒰ วันday:th ꒱ ✦ ꒰ day:eg ꒱"
+                ,"꒰ day:th ꒱ ✦ ꒰ day:eg ꒱"
                 ,"꒰ time:t ꒱ ✦ ꒰ date:eg ꒱"
             ],
             "setState": [
@@ -255,13 +255,13 @@ cpu:g
             "Details": [
                 "꒰ time:t ꒱ ✦ ꒰ date:n ꒱"
                 , "꒰ time:t ꒱ ✦ ꒰ date:th ꒱"
-                ,"꒰ วันday:th ꒱ ✦ ꒰ day:eg ꒱"
+                ,"꒰ day:th ꒱ ✦ ꒰ day:eg ꒱"
                 ,"꒰ time:t ꒱ ✦ ꒰ date:eg ꒱"
                 ,"꒰ time:t ꒱ ✦ ꒰ date:n ꒱"
                 ,"꒰ time:t ꒱ ✦ ꒰ date:th ꒱"
                 ,"꒰ วันday:th ꒱ ✦ ꒰ day:eg ꒱"
                 ,"꒰ time:t ꒱ ✦ ꒰ date:eg ꒱"
-                ,"꒰ วันday:th ꒱ ✦ ꒰ day:eg ꒱"
+                ,"꒰ day:th ꒱ ✦ ꒰ day:eg ꒱"
                 ,"꒰ time:t ꒱ ✦ ꒰ date:eg ꒱"
             ],
             "setState": [
